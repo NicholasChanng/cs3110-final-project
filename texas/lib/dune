@@ -1,0 +1,6 @@
+(library
+ (inline_tests)
+ (name texas)
+ (libraries yojson ANSITerminal)
+ (preprocess
+  (pps ppx_inline_test)))

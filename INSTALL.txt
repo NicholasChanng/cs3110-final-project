@@ -1,0 +1,10 @@
+Using terminal, navigate to the [texas] directory.
+Run [opam update] and then [opam upgrade].
+If you do not have ANSITerminal, run [opam install ANSITerminal].
+If you do not have OUnit2, run [opam install OUnit2].
+If you do not have Inline tests, run [opam install ppx_inline_test].
+If you do not have Yojson, run [opam install yojson].
+
+
+
+Then, run [dune exec bin/main.exe]. The program will start.

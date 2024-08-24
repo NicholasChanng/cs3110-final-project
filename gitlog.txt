@@ -1,0 +1,675 @@
+commit d3620d77cd0ee353a34b5b782fe663ed7ddb1692
+Author: Ryan King <rpk84@cornell.edu>
+Date:   Wed May 15 22:21:45 2024 -0400
+
+    Updated yaml
+
+commit 273e87715b57b201f33fe24e62d0b2c7170b3b27
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Wed May 15 22:09:50 2024 -0400
+
+    Added author statement
+
+commit 938b9b6a9b2ac80dd441f0646a4aa9a2a0303be9
+Author: Nicholas Channg <87846996+NicholasChanng@users.noreply.github.com>
+Date:   Wed May 15 22:04:42 2024 -0400
+
+    Added Test Plan file
+
+commit 74dbe8aff31a1326478ec1a76c9f4fdeff07e945
+Merge: e8d807f 9059b5b
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Wed May 15 22:03:33 2024 -0400
+
+    Merge branch 'main' of github.coecis.cornell.edu:gmz9/cs3110-final-project
+
+commit e8d807f4c64243e8cb0f62e272751eb9d22c4eb2
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Wed May 15 22:03:18 2024 -0400
+
+    Added documentation
+
+commit 9059b5b6dc29b01cd667705ae5d12d7abc94f4d8
+Author: jerryji <rj378@cornell.edu>
+Date:   Wed May 15 21:58:02 2024 -0400
+
+    breaking up with the functions
+
+commit 68aa95a27f211a13b71b056393c69ed932008184
+Author: Mehdi Heydari <mmh287@cornell.edu>
+Date:   Wed May 15 21:32:42 2024 -0400
+
+    added install
+
+commit b21e824e9beb7117da319c6de7acd1926078837c
+Merge: 1995aec 5f648fc
+Author: Mehdi Heydari <mmh287@cornell.edu>
+Date:   Wed May 15 21:30:49 2024 -0400
+
+    Merge branch 'main' of https://github.coecis.cornell.edu/gmz9/cs3110-final-project
+
+commit 1995aec77d0b37aa17865d324df2fb15fe532346
+Author: Mehdi Heydari <mmh287@cornell.edu>
+Date:   Wed May 15 21:30:39 2024 -0400
+
+    added install
+
+commit 5f648fce80fac3efc2c3fcecba4bd7405306c1e2
+Author: jerryji <rj378@cornell.edu>
+Date:   Wed May 15 21:28:36 2024 -0400
+
+    breaking up
+
+commit e9e8ed65ad6a0acc60cbc41fa14360cc761b7342
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Wed May 15 15:58:09 2024 -0400
+
+    Rewrote and reformatted Texas rules
+
+commit a1859d49b27a78350ffda16d08eb5dfa22d323df
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Wed May 15 15:55:55 2024 -0400
+
+    Rewrote and reformatted
+
+commit cca2019be845d15c07da77975630a1de118f18dd
+Author: Mehdi Heydari <mmh287@cornell.edu>
+Date:   Wed May 15 15:48:24 2024 -0400
+
+    finished json
+
+commit c9c3c3a6eda9ffe33967222309ede3927fe73be0
+Author: Mehdi Heydari <mmh287@cornell.edu>
+Date:   Wed May 15 15:29:40 2024 -0400
+
+    added json for texas
+
+commit a5a75822984a3b1f47926b2a84a5591f1589bef4
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Wed May 15 15:28:49 2024 -0400
+
+    Made it print out player hand every round for reference
+
+commit 21363d75d6a7efb2b25164a16fcfb1eca2b42bf3
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Wed May 15 15:18:13 2024 -0400
+
+    Refined game statements
+    
+    - Announces player/dealer hand
+    - Fixed win statement
+
+commit 0d0b8ab548e09b83b5c8eddc4ec8ff9cc9f44a58
+Author: Mehdi Heydari <mmh287@cornell.edu>
+Date:   Wed May 15 15:15:55 2024 -0400
+
+    fixed the printing
+
+commit 75e52833a49d2f8f0f7be6dc692535d36b5fc05b
+Merge: 6365549 575a9da
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Wed May 15 15:00:10 2024 -0400
+
+    Merge branch 'main' of github.coecis.cornell.edu:gmz9/cs3110-final-project
+
+commit 6365549e5f6fa710bc6e22060abdc546320116c6
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Wed May 15 14:59:13 2024 -0400
+
+    Fixed blind payout
+    
+    - Added win message
+
+commit 575a9da76c342d1b23150e7ae1a9216200f3bf1c
+Merge: 2d90c03 dff79e6
+Author: Mehdi Heydari <mmh287@cornell.edu>
+Date:   Wed May 15 14:49:44 2024 -0400
+
+    Merge branch 'main' of https://github.coecis.cornell.edu/gmz9/cs3110-final-project
+
+commit 2d90c0355723be0784d690a077156669537532d6
+Author: Mehdi Heydari <mmh287@cornell.edu>
+Date:   Wed May 15 14:49:28 2024 -0400
+
+    even more deck tests
+
+commit dff79e63fa73cebd3bc1fe0166169495c89404fb
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Wed May 15 14:30:05 2024 -0400
+
+    Properly removed Omaha and Cincinnati
+
+commit b67b7159c8fef6bcfef168653f5cf0564084630e
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Wed May 15 14:26:18 2024 -0400
+
+    Undo removal
+
+commit 1f5eeffca2e1a485742b92c2fc78b8f45ba9d7b7
+Merge: 1e74677 1ee8ff3
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Wed May 15 14:24:38 2024 -0400
+
+    Merge branch 'main' of github.coecis.cornell.edu:gmz9/cs3110-final-project
+
+commit 1ee8ff3afa062576eebd33b33dcf8897d11a5f09
+Merge: 8c52749 62be456
+Author: Mehdi Heydari <mmh287@cornell.edu>
+Date:   Wed May 15 14:23:44 2024 -0400
+
+    Merge branch 'main' of https://github.coecis.cornell.edu/gmz9/cs3110-final-project
+
+commit 8c5274968bc635ff4c5cbcdf6e50764475bcf0b5
+Author: Mehdi Heydari <mmh287@cornell.edu>
+Date:   Wed May 15 14:22:16 2024 -0400
+
+    added tests
+
+commit 1e74677406e5adc186b8274add14c2021978ff00
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Wed May 15 14:21:56 2024 -0400
+
+    Removed Omaha and Cincinnati
+
+commit 62be456b0de5e9afad0a597fa081af3979eb1211
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Wed May 15 14:11:50 2024 -0400
+
+    Added 1x betting
+    
+    - Improved prompts
+
+commit 30307539c8088f9af757d290526ade92752b882c
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Wed May 15 13:32:26 2024 -0400
+
+    Fixed dealing the river (should not be dealing turn)
+
+commit 87e3d62858e046c12768a823823ecb3233e66de0
+Author: Ryan King <rpk84@cornell.edu>
+Date:   Wed May 15 03:38:13 2024 -0400
+
+    Got rid of erraneous code
+
+commit 83e6b1983e3be1b9409baccc90932a4e49934c80
+Author: Ryan King <rpk84@cornell.edu>
+Date:   Wed May 15 03:32:39 2024 -0400
+
+    Reduced the length of the functions in game to 20 lines or less
+
+commit 7026a3f63c5c648bb4dc555a977e056957d7c385
+Author: jerryji <rj378@cornell.edu>
+Date:   Tue May 14 22:26:46 2024 -0400
+
+    format the printing for prompting set bet
+
+commit c66d992e8eca1b812719ee35a289b38a82b11cdd
+Author: Ryan King <rpk84@cornell.edu>
+Date:   Tue May 14 22:16:48 2024 -0400
+
+    Added test cases for hand comparisons
+
+commit 552d731113accc3adef1a8972973cdd401883484
+Author: jerryji <rj378@cornell.edu>
+Date:   Tue May 14 22:16:16 2024 -0400
+
+    checking for valid inputs for prompting for what bet or check or fold the user wants
+
+commit 30f24527410901b3ef73c9288346dca350c454b1
+Author: jerryji <rj378@cornell.edu>
+Date:   Tue May 14 21:36:02 2024 -0400
+
+    debug to allow if 0 chips when we are betting the trips
+    
+    - it is optional
+
+commit 589cb15a4c57594a2ea96702b27d0939a79279f7
+Author: Ryan King <rpk84@cornell.edu>
+Date:   Tue May 14 21:14:23 2024 -0400
+
+    Created new output function
+
+commit 571aa509c43743698e76fc07bdcdb1374b58886d
+Author: jerryji <rj378@cornell.edu>
+Date:   Tue May 14 21:05:26 2024 -0400
+
+    fixed texas hold'em description to ultimate texas hold'em
+
+commit 265d22fa351347c21fac9d3a92332fa230c695a7
+Author: jerryji <rj378@cornell.edu>
+Date:   Tue May 14 19:56:48 2024 -0400
+
+    remove server ;(
+
+commit 95a19fe8a87f3e941b45fccd5e789f8011f1f1b5
+Author: Ryan King <rpk84@cornell.edu>
+Date:   Tue May 14 17:55:20 2024 -0400
+
+    Added alternate compare function for ranks
+
+commit 0fb6dc877192a64384253e7f100607c9ab4c6d79
+Author: Ryan King <rpk84@cornell.edu>
+Date:   Tue May 14 17:23:27 2024 -0400
+
+    Fixed issues with kickers and added tests
+
+commit 1df1cedf67df0b924fae2f64bacb9e4c8afb9a6f
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Tue May 14 00:53:37 2024 -0400
+
+    Fixed is_straight
+
+commit 939c902aa0c5de40861f0c99248515bf33e07838
+Author: Ryan King <rpk84@cornell.edu>
+Date:   Mon May 13 23:11:31 2024 -0400
+
+    Fixed issues with aces not being ranked correctly
+
+commit bda40a14f17272dc6f8f6fc25b0f9bea505ce47f
+Author: Ryan King <rpk84@cornell.edu>
+Date:   Mon May 13 22:36:29 2024 -0400
+
+    - Squashed some bugs found during playing testing
+
+commit fe232e76252e4cdf99f9a9ad38fe2e285a64a3d7
+Author: Ryan King <rpk84@cornell.edu>
+Date:   Mon May 13 22:07:18 2024 -0400
+
+    Implemented complete basic functionality of Ultimate Texas Hold 'em
+
+commit fbc7c81b6b831d4a70ce5e58e21de37a50ac52b9
+Author: Ryan King <rpk84@cornell.edu>
+Date:   Mon May 13 20:24:30 2024 -0400
+
+    Implemented kickers in evaluation and improved on hold 'em implmentation
+
+commit 0fb1bb3d7daa708d82509c9552ac285c360445aa
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Mon May 13 15:44:18 2024 -0400
+
+    Added test cases for Deck functions
+
+commit d40c35a025379b72522a81dfea8e40da5df29d1d
+Author: Ryan King <rpk84@cornell.edu>
+Date:   Mon May 13 01:38:53 2024 -0400
+
+    Started implementation of single player hold 'em
+
+commit 66754a05ef08b684d9ad00f13de28e5f519ceb1d
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Mon May 13 01:21:27 2024 -0400
+
+    Tested hand evaluation and fixed functions accordingly
+    
+    - Fixed is_flush
+    - Added 2 test cases for each hand type
+    - Added Royal Flush as a possible hand category
+
+commit 9ea953caf435b027323d09bc7047c77692d613fb
+Author: Mehdi Heydari <mmh287@cornell.edu>
+Date:   Sun May 12 18:19:32 2024 -0400
+
+    added cincinatti
+
+commit bed5e7f925dce3a36600adfabf21b5610e19701b
+Author: Mehdi Heydari <mmh287@cornell.edu>
+Date:   Sat May 11 21:39:03 2024 -0400
+
+    finished omaha
+
+commit ee30ae1650dd96816cbcd104aa837303cfdbe3de
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Fri May 10 14:22:17 2024 -0400
+
+    Cleaned up Blackjack code
+
+commit 3543c3f7a012abafeb89a8fc85d5ebbf5e2fcf11
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Fri May 10 14:00:33 2024 -0400
+
+    Added Blackjack rules
+
+commit fbff4a918a058b27b69f7c2401764618ae94b919
+Author: Jerry Ji <rj378@cornell.edu>
+Date:   Sun May 5 18:24:17 2024 -0400
+
+    fix dune in texas
+    
+    forgot to clean that part up when deciding to migrate to a new project.
+
+commit 0035cb0493c7d000d23ff95102a6bbbeae4ba437
+Author: Nicholas Channg <87846996+NicholasChanng@users.noreply.github.com>
+Date:   Sun May 5 18:14:13 2024 -0400
+
+    Fixed is_straight and started testing texas
+
+commit e6cd5b998a706c474295f056d535f1dd30417eb3
+Author: jerryji <rj378@cornell.edu>
+Date:   Sun May 5 16:06:23 2024 -0400
+
+    refactored the server
+    
+    - separate handlers for each game depending on the terminal argument
+
+commit 5530500028b87576bd2a8a7d5a2c540dc950f45c
+Author: jerryji <rj378@cornell.edu>
+Date:   Sun May 5 15:56:22 2024 -0400
+
+    fix server
+    
+     - can now broadcast messages to all the connected clients
+
+commit 6a131d90bfcdeb5a7b4cf681fab2efc1d5563ec7
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Sun May 5 15:07:53 2024 -0400
+
+    Added Blackjack tests
+
+commit 35c7a6c3c91af97c80ca0663892889c13135aac3
+Merge: b813096 488f6b3
+Author: Nicholas Channg <87846996+NicholasChanng@users.noreply.github.com>
+Date:   Sun May 5 14:50:01 2024 -0400
+
+    Merge branch 'main' of github.coecis.cornell.edu:gmz9/cs3110-final-project
+
+commit b813096651c363cadcb9f691df35ac0b18584e63
+Author: Nicholas Channg <87846996+NicholasChanng@users.noreply.github.com>
+Date:   Sun May 5 14:49:46 2024 -0400
+
+    Starting of test_texas
+
+commit 488f6b3fd0428682cf072750434080a29786eacf
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Sun May 5 14:44:20 2024 -0400
+
+    Split Blackjack code into logic and interface
+    
+    - Added documentation
+
+commit 5f191fa1cda42ebb818e28609f9d80be27393a42
+Author: Ryan King <rpk84@cornell.edu>
+Date:   Sun May 5 14:37:51 2024 -0400
+
+    Made suit a public type
+
+commit 657ddee0f7b13c9a516956cee0477ae2edbf1534
+Author: Ryan King <rpk84@cornell.edu>
+Date:   Sun May 5 14:36:21 2024 -0400
+
+    Added functionality to create a card
+
+commit 2fa8cc0a5397e3e1ef9e79e2b8353d80b8d82313
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Fri May 3 16:45:33 2024 -0400
+
+    Implemented doubling down in blackjack
+    
+    - Involved changing the way the entire game handles betting
+
+commit ab550fefbe8b2ef4f192cf167062568624698b09
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Fri May 3 16:04:15 2024 -0400
+
+    Implemented Naturals in Blackjack
+    
+    - Implemented new round results
+    - Implemented checking for naturals/blackjacks
+    - Handled errors for initializing chips in Blackjack
+    - Handled errors for betting in chips.ml
+
+commit d3d80a291037493b71ace0b96076a29d76586c2e
+Author: jerryji <rj378@cornell.edu>
+Date:   Sat Apr 27 03:51:35 2024 -0400
+
+    created a starter code for the server and client
+    
+    - pasted in the starter code from the lab
+    - have the client to test if the server is able to relay information
+    - the point of the server is to identify who to broadcast to
+
+commit 842fb96125c4cf2ec75b635c6f7974dd126e1564
+Author: jerryji <rj378@cornell.edu>
+Date:   Fri Apr 26 15:07:11 2024 -0400
+
+    initialize server project
+    
+    - handles the async requests from the various games we have
+
+commit edf8c38ed6d6baf42eeacba6d15ceb887451665a
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Thu Apr 25 18:53:10 2024 -0400
+
+    Modified result calculation to conform with Blackjack rules
+    
+    - Dealer now stands after hitting 17
+    - Stand-offs (ties) are now accounted for
+
+commit a407792a584b4c69d13f6d82777e5d769c44fd89
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Thu Apr 25 18:40:38 2024 -0400
+
+    Implemented Blackjack
+    
+    - Moved prompting for bet to chips compilation unit
+    - Implemented basic Blackjack game vs dealer with gambling capability
+    - Added player choice for game in main
+
+commit 4c3dff6a7a4136613e895715f4ca466df7e4aadf
+Author: Ryan King <rpk84@cornell.edu>
+Date:   Tue Apr 23 20:08:41 2024 -0400
+
+    Added barebones gambling functionality
+
+commit 2cb6ae6194491e656e87018013d68bbe0c8582cf
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Thu Mar 28 23:30:58 2024 -0400
+
+    Fixed INSTALL.txt
+
+commit b74345502a323c5dc429776b98a7a48534f3c30a
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Thu Mar 28 22:11:11 2024 -0400
+
+    Fixed YAML file
+    
+    - Made new gitlog
+
+commit f3af61d6890adbec921495a1030c5ac7064bb915
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Thu Mar 28 22:03:31 2024 -0400
+
+    Added gitlog for MS2
+
+commit 996df5e4bc1f9bded8e436dae605db04bd0e8967
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Thu Mar 28 22:00:29 2024 -0400
+
+    Added INSTALL.txt
+
+commit 0a39badb83c561d8c24927e1558a538c0f1e5a31
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Thu Mar 28 14:47:43 2024 -0400
+
+    Added hand evaluation into gameplay
+    
+    - Reordered hand evaluation to put flush/straight under full house
+    - Reformmated code according to ocamlformat
+
+commit 066743a1fbf39e7fa18f96040f77d60bf84e1ab4
+Author: Nicholas Channg <87846996+NicholasChanng@users.noreply.github.com>
+Date:   Thu Mar 28 14:30:08 2024 -0400
+
+    Added shuffling into the game
+    
+    - The cards dealt are now random
+
+commit 81c5af01d0614c7aa5db15229c812aeca150b451
+Merge: b84bb6f 2d5e99f
+Author: Nicholas Channg <87846996+NicholasChanng@users.noreply.github.com>
+Date:   Thu Mar 28 13:23:08 2024 -0400
+
+    Merge branch 'main' of github.coecis.cornell.edu:gmz9/cs3110-final-project
+
+commit b84bb6f867fc668fd29d97d0c563d1ab052d32cf
+Author: Nicholas Channg <87846996+NicholasChanng@users.noreply.github.com>
+Date:   Thu Mar 28 13:22:58 2024 -0400
+
+    Added start_game logic.
+    
+    - Asks the user if they want to start the game
+    - If they user starts the game their hand, the flop, the turn, and the river are all printed at the user's input
+
+commit 2d5e99f2a6d6117c4f2167dae7faf6a097ed4c21
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Thu Mar 28 01:00:55 2024 -0400
+
+    Added YAML file
+
+commit 5614866c6525a31164af4aabb40d675a64a56613
+Author: Nicholas Channg <87846996+NicholasChanng@users.noreply.github.com>
+Date:   Tue Mar 26 19:26:44 2024 -0400
+
+    Added game compilation unit
+
+commit 63f5ef264ecf906aecb0f338083aa0f30393bee4
+Author: Ryan King <rpk84@cornell.edu>
+Date:   Tue Mar 26 18:18:53 2024 -0400
+
+    Basic player structure is now implemented
+
+commit e59253070cf22712a219791db94392aad8eb11e1
+Author: Nicholas Channg <87846996+NicholasChanng@users.noreply.github.com>
+Date:   Mon Mar 25 18:40:25 2024 -0400
+
+    Added small changes to main.ml
+    
+    - Prints the start prompt
+    - Asks the user if they want to play
+
+commit 06f4f09afba46e28c5d1f3d230b05542ca16f1f1
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Mon Mar 25 18:27:03 2024 -0400
+
+    Implemented Deck.draw
+
+commit d9d0d37e0ba37034cefa5a4a7393207caa8c5d39
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Mon Mar 25 18:18:56 2024 -0400
+
+    Finished implementing Deck
+    
+    - Implemented Deck.shuffle
+    - Confirmed randomness of Deck.shuffle
+    - Documented types and values in deck.mli
+    - Added AF and RI for deck.ml
+
+commit a3188a0336a1504b3e62cccc583ba92311e8287a
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Sun Mar 24 15:28:47 2024 -0400
+
+    Implemented Deck.print_hand
+    
+    - Implemented Deck.print_card
+    - Implemented to_strings for rank and suit
+
+commit 8791a4ae84429828eaaaef6d7d731b177f2db731
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Sun Mar 24 15:19:24 2024 -0400
+
+    Changed full_deck typein mli
+
+commit 4ed56da7ab7b1dd614fd1e236bb156df2c4195ee
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Sun Mar 24 15:13:09 2024 -0400
+
+    Changed full_deck type
+
+commit e07e4ff8385a0762ea5ea1b4a721b4e16e305a16
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Sun Mar 24 15:10:37 2024 -0400
+
+    Added deck implementation
+
+commit 3388fa024442639706deede9661f1b74fd1ea1fd
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Sun Mar 24 15:03:45 2024 -0400
+
+    Everything should actually be set up now
+
+commit fa0d786a3b4159526e3fb42631e571cf8f25abe2
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Sun Mar 24 14:58:20 2024 -0400
+
+    Added ocamlformat
+
+commit 9ac3abbc022a40e5fe5645c09566df06c37a1ca3
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Sun Mar 24 14:53:21 2024 -0400
+
+    Added types for cards and decks
+
+commit a2fc84b8790b0f9b77f50778541b92f791e8bfc5
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Sun Mar 24 14:32:50 2024 -0400
+
+    Actually initialized dune project
+
+commit 9dba91c11479fd45f2902f79258af2c5fc782689
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Sun Mar 24 14:29:54 2024 -0400
+
+    Reset
+
+commit 6f4703e3623209181c4c63a629b963033d4045ae
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Sun Mar 24 14:25:40 2024 -0400
+
+    Initialized dune again
+
+commit 7151b3fd534c66528f2f8329981ccf5fdf5f1203
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Sun Mar 24 14:24:50 2024 -0400
+
+    Initialized Dune
+
+commit 0a7781866e00cca3b1d90935943ea86456c1e44c
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Sun Mar 24 14:19:30 2024 -0400
+
+    Initialized dune
+
+commit 8fa36b0c3ab74e20c28f2f62e713e4ed8b7d271d
+Author: Mehdi Heydari <mmh287@cornell.edu>
+Date:   Thu Mar 14 20:28:55 2024 -0400
+
+    added Mehdi Heydari (mmh287)
+
+commit ce3a8d932a630495c020824e73aa215994a97680
+Author: Jerry Ji <rj378@cornell.edu>
+Date:   Wed Mar 13 17:40:19 2024 -0400
+
+    add jerry to readme
+
+commit d0e5e07f39d75394aeea410ffb2b1ba75929b603
+Author: rpk84 <rpk84@cornell.edu>
+Date:   Wed Mar 13 17:39:54 2024 -0400
+
+    Update README.md
+
+commit b887d57883a3ee1472f15b9316c284b243fec780
+Author: nc489 <nc489@cornell.edu>
+Date:   Wed Mar 13 17:09:55 2024 -0400
+
+    Update README.md
+
+commit 54eec6c2ca3198eb14c7ff2b37b993dd56cf8e15
+Author: Gavin Zhou <gmz9@cornell.edu>
+Date:   Tue Mar 12 12:03:16 2024 -0400
+
+    Gavin's initial commit
+
+commit 7e03067a5461a8ce05e06d5ac7e52eccf0820514
+Author: gmz9 <gmz9@cornell.edu>
+Date:   Tue Mar 12 11:57:02 2024 -0400
+
+    Initial commit

@@ -1,0 +1,31 @@
+---
+# Members of your group.
+group:
+  - name: Nicholas Channg
+    netid: nc489
+  - name: Mehdi Heydari
+    netid: mmh287
+  - name: Jerry Ji
+    netid: rj378
+  - name: Ryan King 
+    netid: rpk84
+  - name: Gavin Zhou
+    netid: gmz9
+# Your PM.
+pm:
+  name: Amy Wu
+  netid: aw628
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "Beat the Dealer"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/gmz9/cs3110-final-project"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Our project consists a terminal-based Ultimate Texas Hold’em poker and Blackjack games. 
+  Both of these games are singleplayer card games where the player must beat the dealer.
+  We developed an acscii art UI for displaying the cards in order to provide an immersive
+  experience.
